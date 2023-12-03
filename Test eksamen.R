@@ -4,5 +4,5 @@ hallo
 l
 h
 nej sådan her
-sådan heeeeer
-uenig
+sådan heeeeer 
+uenig - hvad mener du?
