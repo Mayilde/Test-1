@@ -3,6 +3,6 @@ fejl
 hallo
 l
 h
-nej sådan her
+nej! sådan her
 sådan heeeeer 
-#uenig - hvad mener du? hva
+#uenig - hvad mener du? hva.
