@@ -1,6 +1,6 @@
 library(ggplot2) #Can be used to several graphs
 fejl
-hallo
+hall
 l
 h
 nej! sådan her
