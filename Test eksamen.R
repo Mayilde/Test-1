@@ -1,8 +1,8 @@
 library(ggplot2) #Can be used to several graphs
 fejl
 hall
-l
-hello
+lhahaha
+hedwkhllo
 nej! sådan her
 sådan heeeeer 
 #uenig - hvad mener du? hva.
